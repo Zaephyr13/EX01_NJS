@@ -6,8 +6,8 @@ import Navbar from '@components/Navbar'
 import Provider from '@components/Provider'
 
 export const metadata = {
-    title: 'Absurd Shockers',
-    description: 'Structure Esport Professionnelle.',
+    title: 'Promptopia',
+    description: 'Discover & Share AI-Powered Prompts.',
 }
 
 const RootLayout = ({ children }) => {
